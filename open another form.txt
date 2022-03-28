@@ -1,0 +1,2 @@
+frm=gcnew Form2();
+frm->Show();

@@ -1,0 +1,20 @@
+#include <iostream>
+#include<cmath>
+#include<math.h>
+#define cmath
+
+using namespace std;
+
+int main() 
+{
+    int N, n;
+    int k=1;
+    int k;
+    
+    
+    N=(n*sigma (1/k));
+    
+    cout << "Hello world!";
+
+    return 0;
+}
